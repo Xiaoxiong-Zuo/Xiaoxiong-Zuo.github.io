@@ -1,6 +1,6 @@
 <img width="1566" height="410" alt="image" src="https://github.com/user-attachments/assets/a2303783-2296-46c9-8c67-b20520e129cd" />---
 layout: about
-title: about
+title: introduction
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -23,7 +23,7 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 I am currently a Joint Ph.D. student at Ludwig Maximilian University of Munich (LMU), formerly at National Astronomical Observatories, CAS (NAOC). My research focuses on applying Deep Learning and Foundation Model to astronomical data processing. I am passionate about AI algorithms and currently looking for job opportunities in China.
