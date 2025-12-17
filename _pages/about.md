@@ -18,6 +18,6 @@ social: true
 nav: true
 ---
 
-I am currently a Joint Ph.D. student at **Ludwig Maximilian University of Munich (LMU)**, formerly at **National Astronomical Observatories, CAS (NAOC)**.
+I am a Ph.D. Candidate at **National Astronomical Observatories, CAS (NAOC)** and a visiting Ph.D. student at **Ludwig Maximilian University of Munich (LMU)** currently.
 
 My research focuses on applying **Deep Learning** and **Foundation Models** to astronomical data processing. I am passionate about AI algorithms and currently looking for job opportunities in China.
