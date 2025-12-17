@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Xiaoxiong Zuo
+description: https://scholar.google.com/citations?user=BF4B6VkAAAAJ
 nav: true
 nav_order: 2
 ---
