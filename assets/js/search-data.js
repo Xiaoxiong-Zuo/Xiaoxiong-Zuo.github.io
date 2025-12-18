@@ -391,16 +391,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-new-publication-our-work-on-falco-foundation-model-of-astronomical-light-curves-has-been-officially-published-and-reported-by-nadc-read-the-full-report",
+          title: 'New publication! Our work on FALCO: Foundation Model of Astronomical Light Curves has...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
