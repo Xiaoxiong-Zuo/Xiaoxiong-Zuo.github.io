@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-successfully-concluded-the-first-session-of-the-nadc-fundamentals-of-astroinformatics-course-read-report",
+          title: 'Successfully concluded the first session of the NADC “Fundamentals of Astroinformatics” course. Read...',
           description: "",
           section: "News",},{id: "news-i-attended-the-34th-adass-conference-and-ivoa-interoperability-meeting-in-malta-i-delivered-an-oral-presentation-titled-transforming-data-into-insights-ai-driven-x-ray-source-classification-within-the-nadc-framework-see-coverage",
           title: 'I attended the 34th ADASS Conference and IVOA Interoperability Meeting in Malta. I...',
