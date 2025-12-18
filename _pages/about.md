@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Munich, Germany</p>
 
-news: false
+news: true
 latest_posts: false
 selected_papers: true
 social: true
