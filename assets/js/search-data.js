@@ -391,13 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-attended-the-34th-adass-conference-and-ivoa-interoperability-meeting-in-malta-i-delivered-an-oral-presentation-titled-transforming-data-into-insights-ai-driven-x-ray-source-classification-within-the-nadc-framework-see-coverage",
+          title: 'I attended the 34th ADASS Conference and IVOA Interoperability Meeting in Malta. I...',
           description: "",
           section: "News",},{id: "news-new-publication-our-work-on-falco-foundation-model-of-astronomical-light-curves-has-been-officially-published-and-reported-by-nadc-read-the-full-report",
           title: 'New publication! Our work on FALCO: Foundation Model of Astronomical Light Curves has...',
