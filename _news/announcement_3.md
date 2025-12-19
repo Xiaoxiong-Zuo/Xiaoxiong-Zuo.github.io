@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully concluded the first session of the NADC "Fundamentals of Astroinformatics" course. [Read report](https://nadc.china-vo.org/article/20231025095018).
+Successfully concluded the first session of the NADC "Fundamentals of Astroinformatics" course. [Read report](https://nadc.china-vo.org/article/20240621085613).
