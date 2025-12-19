@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate at NAOC | Joint Ph.D. at LMU Munich
+subtitle: Hi!!! I'm so glad you found me!
 
 profile:
   align: right
