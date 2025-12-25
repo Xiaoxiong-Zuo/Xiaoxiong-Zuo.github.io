@@ -400,7 +400,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-the-34th-adass-conference-and-ivoa-interoperability-meeting-in-malta-i-delivered-an-oral-presentation-titled-transforming-data-into-insights-ai-driven-x-ray-source-classification-within-the-nadc-framework-see-coverage",
           title: 'I attended the 34th ADASS Conference and IVOA Interoperability Meeting in Malta. I...',
           description: "",
-          section: "News",},{id: "news-new-sci-comm-contribution-my-popular-science-article-has-been-officially-published-in-the-anthology-do-not-answer-red-coast-published-by-citic-press-read-report",
+          section: "News",},{id: "news-new-sci-comm-contribution-my-popular-science-article-has-been-officially-published-in-the-三体-anthology-do-not-answer-red-coast-不要回答-红案-published-by-citic-press-read-report",
           title: 'New Sci-Comm contribution! My popular science article has been officially published in the...',
           description: "",
           section: "News",},{id: "news-new-publication-our-work-on-falco-foundation-model-of-astronomical-light-curves-has-been-officially-published-and-reported-by-nadc-read-the-full-report",
