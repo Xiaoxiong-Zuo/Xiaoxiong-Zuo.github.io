@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New Sci-Comm contribution! My popular science article has been officially published in the anthology **Do Not Answer: Red Coast** (published by CITIC Press). [Read report](https://mp.weixin.qq.com/s/ReHyP3lj9-UNWLOy44Pckw).
+New Sci-Comm contribution! My popular science article has been officially published in the 三体 anthology **Do Not Answer: Red Coast 《不要回答：红案》** (published by CITIC Press). [Read report](https://mp.weixin.qq.com/s/ReHyP3lj9-UNWLOy44Pckw).
