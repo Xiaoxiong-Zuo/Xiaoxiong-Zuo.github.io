@@ -15,7 +15,7 @@ contact_note: >
   Feel free to contact me via email for potential collaboration.
   
 description: >
-  Congratulations on finding me!
+  Congratulations on finding me! Personal homepage of Xiaoxiong Zuo, a PhD candidate in NAOC and visiting PhD student based in Munich (LMU). Specializing in Deep Learning, Time Domain Astronomy, and Astronomical Data Science.
 
 footer_text: >
   Copyright © 2025 Xiaoxiong Zuo.
@@ -70,8 +70,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -86,7 +86,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: "KRYuNgjPyCw3e1v8aobRP19XeKEyW8z0xvBXs_rl4B8"
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
