@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "+",
+          description: "Publications by Xiaoxiong Zuo (左肖雄) on deep learning, foundation models, and time-domain astronomy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
